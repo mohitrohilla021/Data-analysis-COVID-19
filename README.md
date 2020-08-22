@@ -2,7 +2,8 @@
 
 The way COVID-19 has spread across the various nations over the globe, there are many factors associated with it that give a lot of useful information about it. 
 
-This repository contains few important datasets that are necessary in the analysis of COVID-19 spread.# Data-analysis-COVID-19
+This repository contains few important datasets that are necessary in the analysis of COVID-19 spread. 
+
 This is an attempt to establish a relationship between the infection of coronavirus and the Happiness index of the nation.
 
 We always believe that the data is “same”, only the “inference” we make out of it makes the difference.
